@@ -1,0 +1,26 @@
+
+td,th{
+    border:1px solid gray;
+}
+
+th 	{
+	padding: 5px 5px;
+	font: 12px arial;
+	color: white;
+    background-image: url("titlebackground.jpg");
+    background-repeat: repeat-x;
+	}
+td	{
+	padding: 5px 5px;
+	font-family:Arial;
+	font-size:12px
+    
+	}
+
+.even {
+	background:#ececd8
+	}
+th 	{
+	text-align:left;
+    border-left-color:gray;border-right-color:gray;
+	}

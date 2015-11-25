@@ -1,0 +1,6 @@
+C:\Users\Deyan\Desktop\Telerik Academy\HTML\Homework\CSSHomework1VtoriOpit\CSSHomework1VtoriOpit\bin\CSSHomework1VtoriOpit.dll.config
+C:\Users\Deyan\Desktop\Telerik Academy\HTML\Homework\CSSHomework1VtoriOpit\CSSHomework1VtoriOpit\bin\CSSHomework1VtoriOpit.dll
+C:\Users\Deyan\Desktop\Telerik Academy\HTML\Homework\CSSHomework1VtoriOpit\CSSHomework1VtoriOpit\bin\CSSHomework1VtoriOpit.pdb
+C:\Users\Deyan\Desktop\Telerik Academy\HTML\Homework\CSSHomework1VtoriOpit\CSSHomework1VtoriOpit\obj\Debug\CSSHomework1VtoriOpit.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Desktop\Telerik Academy\HTML\Homework\CSSHomework1VtoriOpit\CSSHomework1VtoriOpit\obj\Debug\CSSHomework1VtoriOpit.dll
+C:\Users\Deyan\Desktop\Telerik Academy\HTML\Homework\CSSHomework1VtoriOpit\CSSHomework1VtoriOpit\obj\Debug\CSSHomework1VtoriOpit.pdb

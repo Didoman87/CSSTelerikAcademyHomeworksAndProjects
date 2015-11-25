@@ -1,0 +1,12 @@
+﻿body {
+    font-size:24px;
+}
+p{
+    color:#0094ff;
+}
+p:first-letter{
+    font-family:'Edwardian Script ITC';font-size:200%;
+}
+p:first-line{
+    font-family:Consolas;font-weight:bold;
+}

@@ -1,0 +1,40 @@
+﻿body {
+    
+}
+.isYellow{
+    color: #fff2b2;
+}
+table{
+    background: #595959;width: 300px;height: 200px;
+    
+}
+#greendot{
+    width:10px;height:10px;
+}
+#isRed{
+    color: red;
+}
+#isOrange{
+    color: orange;
+}
+.Istyle{
+    font-style: italic;
+}
+.isGray{
+    color: #a1b0b9;
+}
+.isWhite{
+    color: white;
+}
+img{
+    width: 10px;height: 10px;
+}
+tr{
+    font-size: 11px;vertical-align:text-top;
+}
+th{
+    text-align:left;padding-bottom:10px;font-size:16px;
+}
+#bottom{
+    padding-top:10px;
+}

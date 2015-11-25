@@ -1,0 +1,6 @@
+Zdr. Kolega,
+nqma kakvo da ti kazvam ti sigurno si znaesh :) !
+Moga samo da dobavq che poneje v uslovieto na 2-ra zad za kartinkite s jivotni mojesh da mahnesh fieldset-a i da gi slojish v spisak 
+sled koeto da gi floatnesh v left,s position: absolute i relative na parenta ,a kartinkite last of type da imat positioning :fixed {left:0;bottom0;} i taka stava kopie na kartinkata za domashna ! 
+
+P.S. tova e dosusht kato parvata zad na izpita ,ako znaesh kolko me e qd che napisah ili po tochno izprobvah fixed-a sled izpita ,ako go bqh testval ili napravil domashnata predi izpita shtqh da znam kak da pozicioniram div taga sled hovarneto na li taga :( e kakto se kazva CHANS !!! I wish u Good Luck ! 

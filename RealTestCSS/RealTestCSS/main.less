@@ -1,0 +1,92 @@
+﻿html,body,div,ul,li,span,img{
+    margin:0;padding:0;
+}
+body {
+    font-size: 16px;
+    font-family: "Times New Roman";
+    color: #000000;
+    div#root{
+        width:635px;height:310px;
+        
+        margin:200px;
+        position:relative;
+        ul{
+            
+            &.avengers{
+                li{
+
+                    display:inline-block;
+                    float:left;
+                    position:relative;
+                    
+                    
+                    &.avenger{
+                        border-top-left-radius:10px;
+                        border-top:3px solid black;
+                        border-left:3px solid black;
+                        border-bottom:3px solid black;
+                        padding:15px;
+                        span{
+                            font-weight:bold;
+                            text-decoration:none;
+                            
+                            
+                        }
+                        div{
+                            display:none;
+                            
+                            border-right:3px solid black;
+                            border-left:3px solid black;
+                            border-bottom:3px solid black;
+                            background-color:#CCCCCC;
+                            width:630px;height:270px;
+                            margin-left:-15px;
+                            margin-top:18px;
+                            &.preview{
+                               position:fixed;
+                               left:215px;
+                                img{
+                                    border:3px solid white;
+                                    height:235px;width:410px;
+                                    margin:20px;
+                                    border-radius:5px;
+                                    
+
+                                }
+                                ul{
+                                    display:block;
+                                    float:right;
+                                    &.skills{
+                                        li{
+                                            &.skill{
+                                                
+                                                
+                                                
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                li:hover{
+                    border-bottom-color:white;
+                    background-color:#CCCCCC;
+                    span{
+                        text-decoration:underline;
+                        
+                    }
+                    div{
+                        display:block;
+                        
+                    }
+
+                }
+                li.avenger:last-of-type{
+                    border-right:3px solid black;
+                }
+            }
+        }
+    }
+}

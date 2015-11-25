@@ -1,0 +1,6 @@
+C:\Users\Deyan\Desktop\Telerik Academy\CSS\TestCSS\TestCSS\bin\TestCSS.dll.config
+C:\Users\Deyan\Desktop\Telerik Academy\CSS\TestCSS\TestCSS\bin\TestCSS.dll
+C:\Users\Deyan\Desktop\Telerik Academy\CSS\TestCSS\TestCSS\bin\TestCSS.pdb
+C:\Users\Deyan\Desktop\Telerik Academy\CSS\TestCSS\TestCSS\obj\Debug\TestCSS.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Desktop\Telerik Academy\CSS\TestCSS\TestCSS\obj\Debug\TestCSS.dll
+C:\Users\Deyan\Desktop\Telerik Academy\CSS\TestCSS\TestCSS\obj\Debug\TestCSS.pdb

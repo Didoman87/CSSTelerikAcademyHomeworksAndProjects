@@ -1,0 +1,70 @@
+﻿body {
+    font-size:16px;
+}
+p{margin:10px 0px 10px 0px;}
+h3{
+    background-color:gray;color:white;font-weight:bold;margin:0px 0px 10px 0px;
+}
+nav{
+    float:left;margin:10px 10px 2px 1px;width:150px;
+}
+div a{
+    color:red;
+}
+a.NOTUnderline{
+    text-decoration:none;color:black;
+    
+}
+a.special,.NOTUnderline{
+    font-weight:bold;color:red;
+}
+
+div{
+    border:1px solid black;margin:2px 1px 2px 1px;
+}
+div#main{
+    padding:10px 5px 30px 5px;width:550px;height:700px;float:right;
+}
+div#main a{
+     margin:10px 0px 10px 0px;
+}
+div#main p#bold{
+    font-weight:bold;
+}
+div#main form input.prev{
+    background-image:url(prev.png);width:100px;height:20px;background-repeat:no-repeat;
+}
+div#main form input.next{
+    background-image:url(next.png);width:100px;height:20px;background-repeat:no-repeat;
+    background-position:right;
+}
+
+
+
+div#main img{
+    float:left;margin-right:20px;
+}
+div#main article{
+    margin:0px 0px 20px 0px;
+}
+
+aside{
+    float:right;width:170px;
+}
+aside div{
+    text-align:center;
+}
+
+aside div form{
+    text-align:center;
+}
+aside div form #open{
+    width:30px;height:20px;
+}
+aside div form #search{
+    width:70px;
+}
+aside div form #sinButon{
+    background-image:url(bbutton.png);width:100px;height:30px;color:skyblue;
+    margin:2px 2px;
+}

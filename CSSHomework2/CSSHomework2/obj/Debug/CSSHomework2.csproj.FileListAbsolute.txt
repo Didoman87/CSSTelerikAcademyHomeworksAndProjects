@@ -1,0 +1,6 @@
+C:\Users\Deyan\Desktop\Telerik Academy\HTML & CSS\Homework\CSSHomework2\CSSHomework2\bin\CSSHomework2.dll.config
+C:\Users\Deyan\Desktop\Telerik Academy\HTML & CSS\Homework\CSSHomework2\CSSHomework2\bin\CSSHomework2.dll
+C:\Users\Deyan\Desktop\Telerik Academy\HTML & CSS\Homework\CSSHomework2\CSSHomework2\bin\CSSHomework2.pdb
+C:\Users\Deyan\Desktop\Telerik Academy\HTML & CSS\Homework\CSSHomework2\CSSHomework2\obj\Debug\CSSHomework2.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Desktop\Telerik Academy\HTML & CSS\Homework\CSSHomework2\CSSHomework2\obj\Debug\CSSHomework2.dll
+C:\Users\Deyan\Desktop\Telerik Academy\HTML & CSS\Homework\CSSHomework2\CSSHomework2\obj\Debug\CSSHomework2.pdb

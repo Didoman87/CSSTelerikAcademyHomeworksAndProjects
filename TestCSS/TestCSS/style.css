@@ -1,0 +1,62 @@
+﻿html,
+body,
+div,
+ul,
+li,
+h3,
+img,
+p {
+  margin: 0;
+  padding: 0;
+}
+p.click-here {
+  display: none;
+}
+body {
+  font-size: 16px;
+}
+body div#wrapper {
+  width: 960px;
+}
+body div#wrapper ul li {
+  display: inline-block;
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+body div#wrapper ul li h3 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
+body div#wrapper ul li div.image-container {
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+}
+body div#wrapper ul li div.image-container img {
+  width: 50px;
+  height: 50px;
+}
+body div#wrapper ul li div.image-container p {
+  font-size: 20px;
+  text-decoration: none;
+  text-align: center;
+}
+body div#wrapper ul:hover {
+  background-color: greenyellow;
+}
+body div#wrapper ul:hover h3 {
+  text-decoration: underline;
+}
+body div#wrapper ul:hover img {
+  zoom: 5;
+}
+body div#wrapper ul:hover p.click-here {
+  display: block;
+}
+body div#wrapper ul:hover p.subtitle {
+  display: none;
+}
+/*# sourceMappingURL=style.css.map */

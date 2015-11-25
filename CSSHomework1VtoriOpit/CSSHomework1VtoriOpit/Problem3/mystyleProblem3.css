@@ -1,0 +1,50 @@
+body  {	
+	background-color:#a9a9a9
+	}
+h1	{	
+	color: #f9f9d1;
+	font-size: 40px;
+	text-align: center;
+	}
+
+nav 	{
+	color: white;
+	text-align: center;
+	}
+
+ul 	{
+	list-style-type: none;
+	}
+
+nav a {
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+	font-size: 25px;
+
+	color: white;
+	}
+p 	{
+	font-size: 16px;
+	color: black;
+	}
+p a 	{
+    text-decoration: none;
+	font-size: 16px;
+	color: black;
+	}
+footer {
+	text-align: center;
+	}
+footer p {
+	text-align: left;
+	}
+.current {
+	background-color: lightgray;
+	}
+.underlined{
+	text-decoration: underline;
+	}
+section  h1 {
+	text-align: left;
+	}

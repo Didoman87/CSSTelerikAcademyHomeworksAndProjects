@@ -1,0 +1,76 @@
+﻿html,
+body,
+div,
+ul,
+li,
+span,
+img {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 16px;
+  font-family: "Times New Roman";
+  color: #000000;
+}
+body div#root {
+  width: 635px;
+  height: 310px;
+  margin: 200px;
+  position: relative;
+}
+body div#root ul.avengers li {
+  display: inline-block;
+  float: left;
+  position: relative;
+}
+body div#root ul.avengers li.avenger {
+  border-top-left-radius: 10px;
+  border-top: 3px solid black;
+  border-left: 3px solid black;
+  border-bottom: 3px solid black;
+  padding: 15px;
+}
+body div#root ul.avengers li.avenger span {
+  font-weight: bold;
+  text-decoration: none;
+}
+body div#root ul.avengers li.avenger div {
+  display: none;
+  position: absolute;
+  border-right: 3px solid black;
+  border-left: 3px solid black;
+  border-bottom: 3px solid black;
+  background-color: #CCCCCC;
+  width: 630px;
+  height: 270px;
+}
+body div#root ul.avengers li.avenger div.preview {
+  margin-left: -17px;
+  margin-top: 17px;
+}
+body div#root ul.avengers li.avenger div.preview img {
+  border: 3px solid white;
+  height: 235px;
+  width: 410px;
+  margin: 20px;
+  border-radius: 5px;
+}
+body div#root ul.avengers li.avenger div.preview ul {
+  display: block;
+  float: right;
+}
+body div#root ul.avengers li:hover {
+  border-bottom-color: white;
+  background-color: #CCCCCC;
+}
+body div#root ul.avengers li:hover span {
+  text-decoration: underline;
+}
+body div#root ul.avengers li:hover div {
+  display: block;
+}
+body div#root ul.avengers li.avenger:last-of-type {
+  border-right: 3px solid black;
+}
+/*# sourceMappingURL=main.css.map */

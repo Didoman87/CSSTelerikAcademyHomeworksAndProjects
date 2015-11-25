@@ -1,0 +1,21 @@
+﻿body {
+}
+span:hover{
+    text-decoration:underline;
+}
+span:hover + div{
+    display:initial;
+    opacity:0.5;
+    
+}
+div{
+  display:none;
+}
+ol{
+    list-style:none;
+    
+    
+}
+li{
+    height:auto;width:auto;
+}

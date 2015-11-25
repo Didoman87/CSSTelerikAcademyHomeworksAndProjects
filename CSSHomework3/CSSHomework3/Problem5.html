@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Problem5</title>
+    <link href="StyleSheetProblem5.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <a href="#">Apple</a>
+        <a href="#">Toshiba</a>
+        <a href="#">Lenovo</a>
+        <a href="#">Dell</a>
+        <a href="#">Asus</a>
+        <a href="#">Hacer</a>
+        <a href="#">Hp</a>
+        <hr />
+    </header>
+    <form>
+        <div class="floatLeft withFrame">
+            <fieldset>
+                <legend>Apple MacBook Air</legend>
+                <div class="floatLeft">
+                    <img src="Comp.jpg" alt="Comp" height="68" />
+                    <p>1300 USD</p>
+                </div>
+                <p class="heigh">64 GB SSD</p>
+                <p>2GB DDR</p>
+                <p>Intel Core i5</p>
+            </fieldset>
+            <fieldset>
+                <legend>Apple MacBook Air</legend>
+                <div class="floatLeft">
+                    <img src="Comp.jpg" alt="Comp" height="68" />
+                    <p>1300 USD</p>
+                </div>
+                <p class="heigh">64 GB SSD</p>
+                <p>2GB DDR</p>
+                <p>Intel Core i5</p>
+            </fieldset>
+            <fieldset>
+                <legend>Apple MacBook Air</legend>
+                <div class="floatLeft">
+                    <img src="Comp.jpg" alt="Comp" height="68" />
+                    <p>1300 USD</p>
+                </div>
+                <p class="heigh">64 GB SSD</p>
+                <p>2GB DDR</p>
+                <p>Intel Core i5</p>
+            </fieldset>
+            <fieldset>
+                <legend>Apple MacBook Air</legend>
+                <div class="floatLeft">
+                    <img src="Comp.jpg" alt="Comp" height="68" />
+                    <p>1300 USD</p>
+                </div>
+                <p class="heigh">64 GB SSD</p>
+                <p>2GB DDR</p>
+                <p>Intel Core i5</p>
+            </fieldset>
+            <fieldset>
+                <legend>Apple MacBook Air</legend>
+                <div class="floatLeft">
+                    <img src="Comp.jpg" alt="Comp" height="68" />
+                    <p>1300 USD</p>
+                </div>
+                <p class="heigh">64 GB SSD</p>
+                <p>2GB DDR</p>
+                <p>Intel Core i5</p>
+            </fieldset>
+            <fieldset>
+                <legend>Apple MacBook Air</legend>
+                <div class="floatLeft">
+                    <img src="Comp.jpg" alt="Comp" height="68" />
+                    <p>1300 USD</p>
+                </div>
+                <p class="heigh">64 GB SSD</p>
+                <p>2GB DDR</p>
+                <p>Intel Core i5</p>
+            </fieldset>
+        </div>
+        <div class="floatRight" id="sliders">
+            <p id="izdanka">Min price: <input type="text" id="minPrice" value="500"> USD</p>
+            <input type="range" name="minPriceInput" min="100" max="1500" step="100" value="500" onchange="updateTextInput(this.value, 'minPrice');">
+            <p>Max price: <input type="text" id="maxPrice" value="1500"> USD</p>
+            <input type="range" name="maxPriceInput" min="500" max="5100" step="200" value="1500" onchange="updateTextInput(this.value, 'maxPrice');">
+            <p>Min RAM: <input type="text" id="minRam" value="4"> GB</p>
+            <input type="range" name="minRamInput" min="1" max="16" step="1" value="4" onchange="updateTextInput(this.value, 'minRam');">
+            <p>Max RAM: <input type="text" id="maxRam" value="16"> GB</p>
+            <input type="range" name="maxRamInput" min="4" max="32" step="4" value="16" onchange="updateTextInput(this.value, 'maxRam');">
+        </div>
+    </form>
+
+    
+    <footer></footer>
+</body>
+</html>

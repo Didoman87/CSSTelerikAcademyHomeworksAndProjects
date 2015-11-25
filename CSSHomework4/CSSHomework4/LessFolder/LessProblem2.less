@@ -1,0 +1,65 @@
+﻿@cheked:true;
+.if() when (cheked = cheked){
+    display:normal;
+}
+
+body, header, section, footer, article, h1, h2, h3, h4, h5, h6, input, button, label, p, fieldset, nav, ul, li, a, span, strong, em {
+    margin: 0;
+    padding: 0;
+    border: 0;
+   
+}
+
+body {
+    
+	font-family: Arial;
+	font-size: 16px;
+    background-color: #DDDDDD;
+	padding: 5px;
+    div{
+        form{
+            width: 10000px;
+		    margin: auto;
+            
+            ul{
+                list-style-type:none;
+                li{
+                    
+			        margin-right:10px;
+                    margin-top:20px;
+			        float:left;
+			        position: relative;
+                    input[type="radio"] {
+				        display: none;
+				        &:checked + label img:last-of-type {
+				        	display: block;
+				        }
+			        }
+
+                    
+                    label{
+                        width: 150px;
+				        height: 150px;
+                    }
+                    img:first-of-type{
+                        zoom:1;
+                        width:150px;height:150px;
+
+                    }
+                    img:last-of-type{
+                        position:fixed;
+				        top:190px;
+                        bottom:0;
+                        left:0;
+				        height: 500px;
+				        width: 500px;
+				        
+				        display: none;
+                    }
+                    
+                }
+            }
+         
+        }
+    }
+}

@@ -1,0 +1,6 @@
+C:\Users\Deyan\Desktop\LESS\WebGallery\bin\WebGallery.dll.config
+C:\Users\Deyan\Desktop\LESS\WebGallery\bin\WebGallery.dll
+C:\Users\Deyan\Desktop\LESS\WebGallery\bin\WebGallery.pdb
+C:\Users\Deyan\Desktop\LESS\WebGallery\obj\Debug\WebGallery.csprojResolveAssemblyReference.cache
+C:\Users\Deyan\Desktop\LESS\WebGallery\obj\Debug\WebGallery.dll
+C:\Users\Deyan\Desktop\LESS\WebGallery\obj\Debug\WebGallery.pdb
